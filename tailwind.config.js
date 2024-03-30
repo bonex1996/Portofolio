@@ -5,7 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'frist-bg': '#000033',
+        'second-bg': '#401F71',
+      },
+    },
   },
   plugins: [],
 }
