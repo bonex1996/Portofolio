@@ -36,7 +36,7 @@ const Header = () => {
           ))}
           <li
             className="mr-11 bg-gradient-to-r from-indigo-500  to-pink-500 rounded-full px-4  py-1
-            hover:from-pink-500 hover:to-indigo-500 transition transform"
+            hover:from-pink-500 hover:to-indigo-500"
           >
             <a href="#">Hire Me!</a>
           </li>
